@@ -1,0 +1,15 @@
+{
+    "name": "apptest.md",
+    "description": "A short description of your app",
+    "architecture": "@CLICK_ARCH@",
+    "title": "testapp",
+    "hooks": {
+        "apptest": {
+            "apparmor": "apptest.apparmor",
+            "desktop":  "apptest.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Mauricio Duarte <mauricioduarte@protonmail.com>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}

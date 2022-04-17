@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>Card.qml</file>
+        <file>../assets/cow.svg</file>
+        <file>../assets/sheep.svg</file>
+        
+    </qresource>
+</RCC>
